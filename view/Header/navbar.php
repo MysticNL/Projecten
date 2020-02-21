@@ -1,7 +1,7 @@
 <?php
     echo "<!DOCTYPE html>";
     echo  "<html>";
-    echo "<header> </header>";
+    echo "<header><img src="img_girl.jpg" > </header>";
     
     echo "<body>
         
